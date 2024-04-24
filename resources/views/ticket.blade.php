@@ -32,15 +32,15 @@
     <section id="carta">
         <div class="parrillada">
             <h2>Carta de las diferentes parrilladas</h2>
-            <p>* Parrillada con papa o yuca </p>
-            <p>* Parrillada con papa o yuca y arroz</p>
+            <p>* Parrillada con papa o yuca y ensalada</p>
+            <p>* Parrillada con papa y arroz</p>
 
         </div>
         <div class="bebidas">
             <h2>Bebidas</h2>
             <li><img src="img/coca cola.png" whidth="200" height="60"> Coca cola</li>
             <li><img src="img/guarana.png" whidth="200" height="60"> Guaraná</li>
-            <li><img src="img/inka-kola-soda.png" whidth="200" height="60">Inka Kola</li>
+            <p>* inka Kola</p>
 
         </div>
     </section>
@@ -68,14 +68,14 @@
             <h2>Contactos</h2>
             <ul>
                 <li><img src="img/img7.png"> Email: info@parrillada.com</li>
-                <li><img src="img/img8.png"> Teléfono: +51945281624</li>
+                <li><img src="img/img8.png"> Teléfono: 945281624</li>
                 <li><img src="img/img9.png"> Whatsapp: +51 965724576</li>
             </ul>
         </div>
         <div class="pagos">
             <h2>Metodo de pagos</h2>
             <li><img src="img/yape.png" whidth="200" height="40"> YAPE: 965724576</li>
-            <li><img src="img/plin.png" whidth="200" height="40"> PLIN: 976935273</li>
+            <li><img src="img/plin.png" whidth="200" height="40"> YAPE: 976935273</li>
 
         </div>
     </footer>
