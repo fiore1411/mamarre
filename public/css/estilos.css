@@ -1,0 +1,28 @@
+/*encabezado */
+header {
+    text-align: center;
+}
+
+body {
+    background-color: blanchedalmond;
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    font-size: 1.5em;
+}
+
+.contactos, .pagos {
+    display: inline-block;
+    vertical-align: top; 
+    margin-right: 20px;
+}
+
+.parrillada, .bebidas {
+    display: inline-block;
+    vertical-align: top; 
+    margin-right: 20px; 
+}
