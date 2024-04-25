@@ -18,11 +18,8 @@ return new class extends Migration
             $table->foreign('cliente_id')->references('id')->on('clientes')->onDelete('cascade');
         });
     }
-    /**
-     * Reverse the migrations.
-     *
-     * @return void
-     */
+   
+    
     public function down()
     {
         Schema::dropIfExists('detalle_clientes');

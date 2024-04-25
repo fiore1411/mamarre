@@ -1,24 +1,33 @@
-header{
+/* encabezado */
+header {
     text-align: center;
 }
 
-body{
-    background-color:blanchedalmond;
+
+body {
+    background-color: blanchedalmond;
 }
-h1{
+
+
+h1 {
     text-align: center;
 }
-p{
+
+
+p {
     font-size: 1.5em;
 }
+
+
 .contactos, .pagos {
     display: inline-block;
-    vertical-align: top; /* Alinea los elementos en la parte superior */
-    margin-right: 20px; /* Ajusta el margen derecho para separar los bloques */
+    vertical-align: top; 
+    margin-right: 20px; 
 }
+
 .parrillada, .bebidas {
     display: inline-block;
-    vertical-align: top; /* Alinea los elementos en la parte superior */
-    margin-right: 20px; /* Ajusta el margen derecho para separar los bloques */
+    vertical-align: top; 
+    margin-right: 20px;
 }
 
