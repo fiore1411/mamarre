@@ -41,6 +41,7 @@
             <li><img src="img/coca cola.png" whidth="200" height="60"> Coca cola</li>
             <li><img src="img/guarana.png" whidth="200" height="60"> Guaraná</li>
             <li><img src= "img/inka-kola.png" whidth="200" height="60"> Inka Kola</li> 
+            <li><img src= "img/agua.png" whidth="200" height="60"> Agua</li> 
         </div>
     </section>
 
